@@ -45,6 +45,12 @@
     </style>
 
 
+    <style name="rounded_triangle">
+        <item name="android:background">@drawable/edittext_white_background</item>
+        <item name="android:fontFamily">@font/ComicSansMS3</item>
+    </style>
+
+
 
 
 </resources>
