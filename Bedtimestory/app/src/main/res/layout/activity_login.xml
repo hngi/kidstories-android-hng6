@@ -15,76 +15,117 @@
         android:layout_marginTop="30dp"
         android:fontFamily="@font/ComicSansMS3"
         android:gravity="center"
-        android:text="Welcome"
+        android:text="@string/welcome"
         android:textColor="@color/colorBlueNew"
-        android:textSize="25sp" />
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/write"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/welcome"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="5dp"
         android:fontFamily="@font/ComicSansMS3"
         android:gravity="center"
-        android:text="Stories for kids is ready!"
+        android:text="@string/read_free_bedtime_stories"
         android:textColor="@color/colorBlueNew"
-        android:textSize="20sp" />
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/write2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/write"
+        android:fontFamily="@font/ComicSansMS3"
+        android:gravity="center"
+        android:text="@string/and_other_stories"
+        android:textColor="@color/colorBlueNew"
+        android:textSize="14sp" />
 
     <ImageView
         android:id="@+id/imageMain"
-        android:layout_width="250dp"
-        android:layout_height="300dp"
+        android:layout_width="200dp"
+        android:layout_height="250dp"
         android:layout_below="@id/write"
         android:layout_centerInParent="true"
         android:layout_marginTop="30dp"
         android:src="@drawable/book" />
 
-    <Button
-        android:id="@+id/facebook_icon"
+    <EditText
+        android:id="@+id/et_email"
         android:layout_width="350dp"
-        android:layout_height="60dp"
+        android:layout_height="50dp"
         android:layout_below="@id/imageMain"
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
-        android:background="@drawable/rounded_triangle"
-        android:fontFamily="@font/Roboto-Regular"
-        android:text="Facebook"
-        android:drawableLeft="@drawable/icon_facebook"
-        android:textAlignment="textStart"
+        android:background="@drawable/edittext_white_background"
+        android:hint="@string/e_mail"
         android:paddingLeft="20dp"
         android:textAllCaps="false" />
 
-
-    <Button
-        android:id="@+id/google_icon"
+    <EditText
+        android:id="@+id/et_password"
         android:layout_width="350dp"
-        android:layout_height="60dp"
-        android:layout_below="@id/facebook_icon"
+        android:layout_height="50dp"
+        android:layout_below="@id/et_email"
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
-        android:background="@drawable/rounded_triangle"
-        android:text="Google"
-        android:textAlignment="viewStart"
-        android:drawableLeft="@drawable/icon_google"
+        android:background="@drawable/edittext_white_background"
+        android:hint="Password"
         android:paddingLeft="20dp"
         android:textAllCaps="false" />
 
     <Button
         android:id="@+id/login_button"
         android:layout_width="350dp"
-        android:layout_height="60dp"
-        android:layout_below="@id/google_icon"
+        android:layout_height="50dp"
+        android:layout_below="@id/et_password"
         android:layout_centerInParent="true"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/rounded_triangle"
-        android:text="Login"
-        android:textAllCaps="false" />
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_triangle_blue"
+        android:fontFamily="@font/Roboto-Regular"
+        android:text="@string/login"
+        android:textColor="@color/colorWhite" />
 
     <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tv_create_account"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:background="@drawable/rounded_triangle"
+            android:drawableLeft="@drawable/icon_facebook"
+            android:fontFamily="@font/Roboto-Regular"
+            android:paddingLeft="5dp"
+            android:textAlignment="center"
+            android:text="@string/facebook"
+            android:textAllCaps="false" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/rounded_triangle"
+            android:drawableLeft="@drawable/icon_google"
+            android:fontFamily="@font/Roboto-Regular"
+            android:paddingLeft="5dp"
+            android:text="Google"
+            android:textAlignment="center"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tv_create_account"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/login_button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
         android:gravity="center"
         android:orientation="horizontal">
 
@@ -96,7 +137,7 @@
             android:layout_marginTop="10dp"
             android:fontFamily="@font/ComicSansMS3"
             android:gravity="center"
-            android:text="Not Registered?"
+            android:text="@string/not_registered"
             android:textColor="@color/colorBlack" />
 
         <TextView
@@ -108,7 +149,7 @@
             android:layout_marginTop="10dp"
             android:fontFamily="@font/ComicSansMS3"
             android:gravity="center"
-            android:text="Create an account"
+            android:text="@string/create_an_account"
             android:textColor="@color/colorBlueNew" />
     </LinearLayout>
 
