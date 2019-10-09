@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:fontFamily="@font/ComicSansMS3"
+        android:fontFamily="@font/comic_sans"
         android:gravity="center"
         android:text="@string/welcome"
         android:textColor="@color/colorBlueNew"
@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/welcome"
         android:layout_marginTop="5dp"
-        android:fontFamily="@font/ComicSansMS3"
+        android:fontFamily="@font/comic_sans"
         android:gravity="center"
         android:text="@string/read_free_bedtime_stories"
         android:textColor="@color/colorBlueNew"
@@ -37,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/write"
-        android:fontFamily="@font/ComicSansMS3"
+        android:fontFamily="@font/comic_sans"
         android:gravity="center"
         android:text="@string/and_other_stories"
         android:textColor="@color/colorBlueNew"
@@ -84,7 +84,7 @@
         android:layout_centerInParent="true"
         android:layout_marginTop="20dp"
         android:background="@drawable/rounded_triangle_blue"
-        android:fontFamily="@font/Roboto-Regular"
+        android:fontFamily="@font/roboto_regular"
         android:text="@string/login"
         android:textColor="@color/colorWhite" />
 
@@ -101,10 +101,10 @@
             android:layout_height="50dp"
             android:background="@drawable/rounded_triangle"
             android:drawableLeft="@drawable/icon_facebook"
-            android:fontFamily="@font/Roboto-Regular"
+            android:fontFamily="@font/roboto_regular"
             android:paddingLeft="5dp"
-            android:textAlignment="center"
             android:text="@string/facebook"
+            android:textAlignment="center"
             android:textAllCaps="false" />
 
         <Button
@@ -113,7 +113,7 @@
             android:layout_marginLeft="20dp"
             android:background="@drawable/rounded_triangle"
             android:drawableLeft="@drawable/icon_google"
-            android:fontFamily="@font/Roboto-Regular"
+            android:fontFamily="@font/roboto_regular"
             android:paddingLeft="5dp"
             android:text="Google"
             android:textAlignment="center"
@@ -135,7 +135,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/login"
             android:layout_marginTop="10dp"
-            android:fontFamily="@font/ComicSansMS3"
+            android:fontFamily="@font/comic_sans"
             android:gravity="center"
             android:text="@string/not_registered"
             android:textColor="@color/colorBlack" />
@@ -147,7 +147,7 @@
             android:layout_below="@id/login"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
-            android:fontFamily="@font/ComicSansMS3"
+            android:fontFamily="@font/comic_sans"
             android:gravity="center"
             android:text="@string/create_an_account"
             android:textColor="@color/colorBlueNew" />
