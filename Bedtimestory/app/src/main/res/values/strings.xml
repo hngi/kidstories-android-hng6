@@ -7,7 +7,6 @@
     <string name="next">Next</string>
     <string name="log_in">Login</string>
     <string name="register">Register</string>
-    <string name="password">Password</string>
     <string name="email">Email</string>
     <string name="sign_up_hint">Sign up for new account, enter your email and get started.</string>
     <string name="login_hint">Login to your account,to start reading your stories</string>
@@ -24,18 +23,10 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="skip">Skip</string>
-    <string-array name="onboarding_title">
-        <item>Bedtime Stories For Kids</item>
-        <item>Add Your own Stories</item>
-    </string-array>
-    <string-array name="onboarding_bodies">
-        <item>Read free bedtime stories, fairy tales, poems for kids and short stories for kids</item>
-        <item>You can add your own bedtime stories, fairy tales, poems for kids and short stories for kids</item>
-    </string-array>
-
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_new_story">Add New Story</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="no_image_uploaded">No image Uploaded</string>
     <string name="upload_image">Upload Image</string>
     <string name="type_content">Type Content</string>
@@ -45,6 +36,24 @@
     <string name="content">Content</string>
     <string name="phone_number">Phone Number</string>
     <string name="internal_storage">internal storage</string>
+    <string name="read_free_bedtime_stories">Read free bedtime stories, fairytales</string>
+    <string name="welcome">Welcome</string>
+    <string name="and_other_stories">and other stories</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="password">password</string>
+    <string name="dummy_text">Afterward, Mom has noticed that the boys havent been getting along so she devises \"Mom Bucks\" to pay them if they spend time together where they can trade in for one real dollar, but this unwittingly makes things worse. Meanwhile, Greg and Rowley try to make a funny YouTube video by Rowley lip-syncing to \"Tik Tok\" by Kesha, unfortunately (despite Rowley at one point sitting on a tinfoil ball with spikes made by Manny) it proves to be awful, getting only 4 hits. After a talent show is advertised on TV, the brothers see this as a big opportunity – Rowley suggests that he and Greg perform magic tricks, but Greg rejects the idea whilst Rodrick sees this as his band\'s big break.</string>
+    <string-array name="onboarding_title">
+        <item>Bedtime Stories For Kids</item>
+        <item>Add Your own Stories</item>
+    </string-array>
+    <string-array name="onboarding_bodies">
+        <item>Read free bedtime stories, fairy tales, poems for kids and short stories for kids</item>
+        <item>You can add your own bedtime stories, fairy tales, poems for kids and short stories for kids</item>
+    </string-array>
     <string-array name="designation_array">
         <item>Kid</item>
         <item>Adult</item>

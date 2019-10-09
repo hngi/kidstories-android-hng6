@@ -39,6 +39,10 @@
             android:fontFamily="@font/worksans_regular"
             android:title="Donate" />
 
+        <item
+            android:id="@+id/nav_about"
+            android:title="About" />
+
     </group>
 
 </menu>
