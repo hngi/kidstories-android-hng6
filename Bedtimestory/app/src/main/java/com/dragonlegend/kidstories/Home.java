@@ -218,6 +218,11 @@ public class Home extends AppCompatActivity
             //start category activity .
             Intent i = new Intent(getBaseContext(), CategoriesActivity.class);
             startActivity(i);
+        }else if (id == R.id.nav_about) {
+
+                //start category activity .
+                Intent i = new Intent(getBaseContext(), About.class);
+                startActivity(i);
 
         } else if (id == R.id.nav_donate) {
             //redirects user to Donate Form

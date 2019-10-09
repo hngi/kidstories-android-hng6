@@ -1,0 +1,285 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8c0e1ff3c6732f9f572aea89c02278af\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\cea83c316cf78b9ee88c95a3707411b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6f4390ea2b53a30ee14e84b091e61ba\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\84baf7b1397537f23dca0f0b616ad60f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0831ac3b0c6338c7cb6a0d2082d187a9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\28be84adc3145acd8f5947bf96804de0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f8fb71cb390b06f5611bb434005c1186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f720e237192571300a3e8cb154a7d92e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f49511e061abc3e63a5b8abf2f2e2aac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2b70b26d869dc9299b64760fc85fb55a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1781c2211451310e6e9c6ec460a0a183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38ce27a6de1226681e1df81bfcb8cf2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8aac4ff1336998f3698786781c9d2112\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7dee3bbbbd18b5b7fb84b5c31d18eb16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\85196c2d354b65ac1cfb82d8d72d360d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\455df2faaff7edb7cddbccee14b2ee70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a935161508d80220d0824db2d2b3afeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f53825ffcc6580c5030141a02af93109\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8760d4570729f2d9ded2288c0a7b29ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9daae9348bfecb1c02c560c8f8aee674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8a3a1f0d31ccb307ca3da053af364657\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ece4c97bd62248af91966a48541cabb8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1d19ca98c2e82d8122533717e739507\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0321daa60147d5e47f70f0e36260a61c\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddf1efda33e14ae4a642190ded753e6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1ed80ba8cd1c9651e36ff7acda2bdd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a674da94b2f978ba819572d25b4aeff9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7003fe252955d7571e161d6e92eb893a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6374d41b685ebae2dd5db95575e0219\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0e3be5cac17ed298da1bdf4bdea81b63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5a49d72f5db90f70842e59a19660424a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\29f26e9a69885b61025619da3a205e0c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\872f0914ecef46140415efc4f8c3891a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:6:5-57:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8c0e1ff3c6732f9f572aea89c02278af\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8c0e1ff3c6732f9f572aea89c02278af\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6f4390ea2b53a30ee14e84b091e61ba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6f4390ea2b53a30ee14e84b091e61ba\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0831ac3b0c6338c7cb6a0d2082d187a9\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0831ac3b0c6338c7cb6a0d2082d187a9\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ece4c97bd62248af91966a48541cabb8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ece4c97bd62248af91966a48541cabb8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0321daa60147d5e47f70f0e36260a61c\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0321daa60147d5e47f70f0e36260a61c\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:7:9-45
+activity#com.dragonlegend.kidstories.About
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:13:9-52
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:13:19-40
+activity#com.dragonlegend.kidstories.Bookmark
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:14:9-16:58
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:15:13-37
+activity#com.dragonlegend.kidstories.Onboarding
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:17:9-48
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:17:19-45
+activity#com.dragonlegend.kidstories.Login
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:18:19-40
+activity#com.dragonlegend.kidstories.Home
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:21:13-56
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:20:13-33
+activity#com.dragonlegend.kidstories.MainActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.dragonlegend.kidstories.RegisterActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:33:9-35:56
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:34:13-45
+activity#com.dragonlegend.kidstories.ProfileRegisterActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:36:9-39:56
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:38:13-59
+	android:theme
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:39:13-53
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:37:13-52
+activity#com.dragonlegend.kidstories.CategoriesActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:40:9-42:58
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:41:13-47
+activity#com.dragonlegend.kidstories.ProfileActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:43:9-45:58
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:45:13-55
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.dragonlegend.kidstories.AddStoryActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:46:9-48:58
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:47:13-45
+activity#com.dragonlegend.kidstories.AddStoriesContentActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:49:9-63
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:49:19-60
+activity#com.dragonlegend.kidstories.StoryDetail
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:50:9-52:50
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:52:13-47
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:51:13-40
+activity#com.dragonlegend.kidstories.Singlestory
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:53:9-55:50
+	android:parentActivityName
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:55:13-47
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:54:13-40
+activity#com.dragonlegend.kidstories.StoryListingActivity
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:56:9-58
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:56:19-55
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:58:5-67
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:58:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:59:5-81
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:59:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:60:5-80
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:60:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:62:5-67
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:62:22-64
+dist:module
+ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:64:5-40
+	dist:instant
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml:64:18-37
+uses-sdk
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8c0e1ff3c6732f9f572aea89c02278af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8c0e1ff3c6732f9f572aea89c02278af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\cea83c316cf78b9ee88c95a3707411b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\cea83c316cf78b9ee88c95a3707411b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6f4390ea2b53a30ee14e84b091e61ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6f4390ea2b53a30ee14e84b091e61ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\84baf7b1397537f23dca0f0b616ad60f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\84baf7b1397537f23dca0f0b616ad60f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0831ac3b0c6338c7cb6a0d2082d187a9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0831ac3b0c6338c7cb6a0d2082d187a9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\28be84adc3145acd8f5947bf96804de0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\28be84adc3145acd8f5947bf96804de0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f8fb71cb390b06f5611bb434005c1186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f8fb71cb390b06f5611bb434005c1186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f720e237192571300a3e8cb154a7d92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f720e237192571300a3e8cb154a7d92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f49511e061abc3e63a5b8abf2f2e2aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f49511e061abc3e63a5b8abf2f2e2aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2b70b26d869dc9299b64760fc85fb55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2b70b26d869dc9299b64760fc85fb55a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1781c2211451310e6e9c6ec460a0a183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1781c2211451310e6e9c6ec460a0a183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38ce27a6de1226681e1df81bfcb8cf2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38ce27a6de1226681e1df81bfcb8cf2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8aac4ff1336998f3698786781c9d2112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8aac4ff1336998f3698786781c9d2112\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7dee3bbbbd18b5b7fb84b5c31d18eb16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7dee3bbbbd18b5b7fb84b5c31d18eb16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\85196c2d354b65ac1cfb82d8d72d360d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\85196c2d354b65ac1cfb82d8d72d360d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\455df2faaff7edb7cddbccee14b2ee70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\455df2faaff7edb7cddbccee14b2ee70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a935161508d80220d0824db2d2b3afeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a935161508d80220d0824db2d2b3afeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f53825ffcc6580c5030141a02af93109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f53825ffcc6580c5030141a02af93109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8760d4570729f2d9ded2288c0a7b29ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8760d4570729f2d9ded2288c0a7b29ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9daae9348bfecb1c02c560c8f8aee674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\9daae9348bfecb1c02c560c8f8aee674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8a3a1f0d31ccb307ca3da053af364657\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8a3a1f0d31ccb307ca3da053af364657\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\91161776af98fb832e8efc21a8020482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ece4c97bd62248af91966a48541cabb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ece4c97bd62248af91966a48541cabb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1d19ca98c2e82d8122533717e739507\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1d19ca98c2e82d8122533717e739507\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0321daa60147d5e47f70f0e36260a61c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0321daa60147d5e47f70f0e36260a61c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddf1efda33e14ae4a642190ded753e6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\ddf1efda33e14ae4a642190ded753e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1ed80ba8cd1c9651e36ff7acda2bdd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1ed80ba8cd1c9651e36ff7acda2bdd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a674da94b2f978ba819572d25b4aeff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a674da94b2f978ba819572d25b4aeff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7003fe252955d7571e161d6e92eb893a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7003fe252955d7571e161d6e92eb893a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6374d41b685ebae2dd5db95575e0219\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d6374d41b685ebae2dd5db95575e0219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0e3be5cac17ed298da1bdf4bdea81b63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0e3be5cac17ed298da1bdf4bdea81b63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5a49d72f5db90f70842e59a19660424a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5a49d72f5db90f70842e59a19660424a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\29f26e9a69885b61025619da3a205e0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\29f26e9a69885b61025619da3a205e0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\872f0914ecef46140415efc4f8c3891a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\872f0914ecef46140415efc4f8c3891a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\AndroidStudioProjects\kidstories-android-hng6\Bedtimestory\app\src\main\AndroidManifest.xml
