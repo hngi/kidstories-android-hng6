@@ -3,8 +3,12 @@ package com.dragonlegend.kidstories;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 public class Singlestory extends AppCompatActivity {
+    private ImageView story_pic, like_btn;
+    private TextView story_author , story_content;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -12,17 +16,14 @@ public class Singlestory extends AppCompatActivity {
         setContentView(R.layout.activity_singlestory);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayShowTitleEnabled(false);
-//        getActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setTitle("Book Title");
 
-//        FloatingActionButton fab = findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
-//            }
-//        });
+        story_author = findViewById(R.id.author_name);
+        story_content = findViewById(R.id.story_content);
+        story_pic = findViewById(R.id.story_pic);
+        like_btn = findViewById(R.id.like_button);
+
     }
 
 }
