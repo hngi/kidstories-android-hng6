@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 09 19:22:21 WAT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\hp\\AndroidStudioProjects\\kidstories-android-hng6\\Bedtimestory\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
