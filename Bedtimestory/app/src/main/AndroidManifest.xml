@@ -18,8 +18,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Bookmark"
-            android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name=".Bookmark"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".Onboarding" />
         <activity android:name=".Login" />
         <activity
@@ -57,6 +58,11 @@
             android:name=".StoryDetail"
             android:parentActivityName=".Home" />
         <activity android:name=".StoryListingActivity" />
+        <activity android:name=".EditProfile"></activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
