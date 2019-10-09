@@ -40,16 +40,19 @@
 
     <style name="EditTextWhite">
         <item name="android:background">@drawable/edittext_white_background</item>
-        <item name="android:fontFamily">@font/ComicSansMS3</item>
+        <item name="android:fontFamily">@font/comic_sans</item>
     </style>
 
 
     <style name="rounded_triangle">
         <item name="android:background">@drawable/rounded_triangle</item>
-        <item name="android:fontFamily">@font/ComicSansMS3</item>
+        <item name="android:fontFamily">@font/comic_sans</item>
     </style>
 
-
+    <style name="RoundTriangleBlue">
+        <item name="android:background">@drawable/rounded_triangle_blue</item>
+        <item name="android:fontFamily">@font/comic_sans</item>
+    </style>
 
 
 </resources>
