@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hp\\AndroidStudioProjects\\kidstories-android-hng6\\Bedtimestory\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "C:\\Users\\Utibe\\Pictures\\HNG\\kidstories-android-hng6\\Bedtimestory\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\cea83c316cf78b9ee88c95a3707411b0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\Utibe\\.gradle\\caches\\transforms-2\\files-2.1\\a44eaf0520c88d682c42035201260f6f\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

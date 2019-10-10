@@ -17,7 +17,6 @@
 
     <dist:module dist:instant="true" />
 
-    <!-- Internet Permission -->
     <application
         android:name="com.dragonlegend.kidstories.Utils.MainAplication"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
@@ -28,6 +27,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.dragonlegend.kidstories.MainActivity" />
         <activity android:name="com.dragonlegend.kidstories.About" />
         <activity
             android:name="com.dragonlegend.kidstories.Bookmark"
@@ -39,7 +39,7 @@
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.dragonlegend.kidstories.MainActivity"
+            android:name="com.dragonlegend.kidstories.DonateActivity"
             android:label="@string/app_name"
             android:theme="@style/Splashscreen" >
             <intent-filter>
@@ -72,6 +72,11 @@
             android:name="com.dragonlegend.kidstories.Singlestory"
             android:parentActivityName="com.dragonlegend.kidstories.Home" />
         <activity android:name="com.dragonlegend.kidstories.StoryListingActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.bedtime.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

@@ -25,6 +25,13 @@
     <string name="skip">Skip</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_new_story">Add New Story</string>
+    <string name="card_number">Card number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="card_expiry_month"> Month</string>
+    <string name="card_expiray_year"> Year</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="last_digits">The last three digits on the \n last  back of the card</string>
+    <string name="donate_now_btn">Donate now</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="no_image_uploaded">No image Uploaded</string>
