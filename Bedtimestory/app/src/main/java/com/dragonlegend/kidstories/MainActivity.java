@@ -13,24 +13,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        Toolbar toolbar = findViewById(R.id.toolbar);
-//        setSupportActionBar(toolbar);
-
-//        FloatingActionButton fab = findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
-//            }
-//        });
 
         /****** Create Thread that will sleep for 5 seconds****/
         Thread background = new Thread() {
             public void run() {
                 try {
                     // Thread will sleep for 5 seconds
-                    sleep(3*1000);
+                    sleep(3000);
 
                     // After 5 seconds redirect to another intent
                     Intent i=new Intent(getBaseContext(),Onboarding.class);
