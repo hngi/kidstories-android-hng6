@@ -17,6 +17,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.dragonlegend.kidstories.Database.Helper.BedTimeDbHelper;
 import com.dragonlegend.kidstories.Utils.UploadImage;
 import com.pixplicity.easyprefs.library.Prefs;
 
@@ -32,6 +33,8 @@ public class AddStoriesContentActivity extends AppCompatActivity implements View
     private String content;
     private String category;
     private Spinner chooseCategory;
+    BedTimeDbHelper mDatabaseHelper;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,6 +55,7 @@ public class AddStoriesContentActivity extends AppCompatActivity implements View
 //        });
 
         initViews();
+        mDatabaseHelper = new BedTimeDbHelper(this);
     }
 
     public void initViews(){
@@ -129,6 +133,7 @@ public class AddStoriesContentActivity extends AppCompatActivity implements View
                 title = Prefs.getString("title", "");
                 String imageFileUri = Prefs.getString("filePath","");
                 Log.d("TAG", "AddStory: " + imageFileUri);
+
                 if (category == ""){
                     ShowSnackbar("Category cannot be empty");
                 }else{
@@ -144,6 +149,8 @@ public class AddStoriesContentActivity extends AppCompatActivity implements View
         }
 
     }
+
+
 
 
     public void ShowSnackbar(String message) {

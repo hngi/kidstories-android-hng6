@@ -72,6 +72,11 @@
             android:name="com.dragonlegend.kidstories.Singlestory"
             android:parentActivityName="com.dragonlegend.kidstories.Home" />
         <activity android:name="com.dragonlegend.kidstories.StoryListingActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.bedtime.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
